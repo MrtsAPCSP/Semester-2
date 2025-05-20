@@ -80,10 +80,8 @@ Semester 2 is divided into 6 key modules, each lasting approximately 3 weeks. Th
 - Peer feedback and iteration
 - Finalizing Create Task submissions
 - Exploring advanced topics (optional):
-  - APIs
-  - Encryption
-  - Image processing
-  - Sorting algorithms
+  - GUI
+  - Websites
 
 🎯 CED Connections:
 - **Big Idea 7: Global Impact**
@@ -134,7 +132,7 @@ Semester 2 is divided into 6 key modules, each lasting approximately 3 weeks. Th
 - 💻 Python (VS Code, Replit, or preferred IDE)
 - 📂 Data Sets (CSV files, open data sources)
 - 🎥 Screen recording for Create Task
-- 📊 Review Resources: Khan Academy, AP Classroom, CodeHS, Runestone
+- 📊 Review Resources: Khan Academy, AP Classroom, CodeHS, Code.org, Class Materials
 
 ---
 
